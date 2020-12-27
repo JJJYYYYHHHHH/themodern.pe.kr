@@ -1,4 +1,6 @@
 # 주식회사 더모던 홈페이지 제작
+### BootStrap / HTML / CSS / JavaScript / PHP / MYSQL(MariaDB)
+
 http://themodern.pe.kr
 
 
